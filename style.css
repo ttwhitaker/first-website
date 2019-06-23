@@ -3,6 +3,17 @@
         text-align: center;
         display: block;
     }
+    }
+    article{
+        background-color:gainsboro;
+        float: left;
+        margin-right: 5%;
+        width: 60;
+    }
+    article img figcaption{
+        float: left;
+        width: 30;
+        padding: 5px;
     h1 {
         font-family: 'Playfair Display', serif;
         font-size: 50px;
@@ -17,9 +28,9 @@
         font-size: 20px;
         text-align: center;
     }
-    img{
-        max-width: 25%;
+    /* img{
+        max-width: 100%;
         height: auto;
         border-radius: 8px;
-    }
+    } */
     
